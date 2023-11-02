@@ -15,8 +15,8 @@ public class TestScenario1 {
 		browserOptions.setPlatformName("Windows 10");
 		browserOptions.setBrowserVersion("119.0");
 		HashMap<String, Object> ltOptions = new HashMap<String, Object>();
-		ltOptions.put("username", "saijahnavi4110");
-		ltOptions.put("accesskey", "2AyllgBrg0XEVRzr6b9GRfIpGnPb79uUSaU7zg0jpFS5CdCakX");
+		ltOptions.put("username", "saijahnavithummala");
+		ltOptions.put("accesskey", "d9wR3G0utBwPB4Xqgmj75OlWJFICMZIQkmHv78UMT0v6TjEzRL");
 		ltOptions.put ("visual", true);
 		ltOptions.put("video", true);
 		ltOptions.put("network", true);
